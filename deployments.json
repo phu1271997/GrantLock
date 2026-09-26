@@ -1,0 +1,12 @@
+{
+  "network": "studionet",
+  "chainId": 61999,
+  "deployer": "0x8b563A8c9eeF530300e92E26457D1AB001daEcC7",
+  "contracts": {
+    "GrantLock": {
+      "address": "0x82602Bcd45e359059FE7354d4143a8E5e9db1474",
+      "tx": "0xb80df73555a690f1af920378451492eac186ece0ce091e31e07645f2eb28c42d",
+      "explorer": "https://genlayer-explorer.vercel.app/address/0x82602Bcd45e359059FE7354d4143a8E5e9db1474"
+    }
+  }
+}
