@@ -14,7 +14,7 @@ builder's actual artifacts (a GitHub PR/commit, a live demo, a published article
 - **Network:** GenLayer **studionet** (chain id `61999`) — deployed via `genlayer-py`.
 - **Contract (studionet):** `0x82602Bcd45e359059FE7354d4143a8E5e9db1474`
   · [View on Explorer](https://genlayer-explorer.vercel.app/address/0x82602Bcd45e359059FE7354d4143a8E5e9db1474)
-- **Live dApp:** see the deployment URL in this repo's About / release notes.
+- **Live dApp (Vercel):** https://grantlock.vercel.app
 
 ---
 
